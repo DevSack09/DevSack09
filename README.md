@@ -1,5 +1,6 @@
-<h1 align="center">👨‍💻 Wilibaldo Salitre</h1>
-<p align="center">🚀 Ingeniero en Sistemas | Full Stack Developer | Especialista en Soluciones Electorales</p>
+<h1 align="center">👨‍💻 Wilibaldo Salitre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+<p align="center">🚀 Ingeniero en Sistemas | Full Stack Developer | Transformando procesos mediante innovación tecnológica</p>
 
 <p align="center">
   <a href="mailto:salwilcer@gmail.com"><img src="https://img.shields.io/badge/Email-salwilcer@gmail.com-blue?style=flat&logo=gmail"></a>
@@ -11,7 +12,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador Full Stack con enfoque en la creación de soluciones eficientes y escalables. Tengo experiencia sólida en el desarrollo de aplicaciones móviles y sistemas web especializados en procesos electorales, así como en la gestión de servidores y soporte técnico. Me considero una persona analítica, organizada y orientada a la mejora continua.
+Soy un desarrollador Full Stack con enfoque en la creación de soluciones eficientes y escalables. A lo largo de mi trayectoria he participado en diversos proyectos de desarrollo web y móvil, lo que me ha permitido adquirir una experiencia sólida y enriquecedora. Cada etapa laboral ha representado una oportunidad de aprendizaje que ha fortalecido mis habilidades técnicas, mi capacidad de análisis y mi compromiso con la mejora continua. Me considero una persona organizada, adaptable y orientada a la innovación tecnológica.
 
 ---
 
@@ -35,7 +36,6 @@ Soy un desarrollador Full Stack con enfoque en la creación de soluciones eficie
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### 🛠️ Herramientas:
@@ -53,7 +53,7 @@ Soy un desarrollador Full Stack con enfoque en la creación de soluciones eficie
   Aplicación móvil con geolocalización para seguimiento de paquetes electorales y sistema web de monitoreo (PHP, Java, Firebase, Android Studio).
 
 - 🖥️ **Automatización de Procesos Electorales**  
-  Sistemas internos desarrollados para el Instituto Estatal Electoral de Hidalgo que facilitan el proceso electoral y administrativo.
+  Sistemas internos desarrollados para facilitar el proceso electoral y administrativo.
 
 - 🧾 **Aplicaciones con React y Laravel**  
   Desarrollo de plataformas full-stack para gestión de datos en tiempo real y visualización eficiente de información.
@@ -69,10 +69,19 @@ Soy un desarrollador Full Stack con enfoque en la creación de soluciones eficie
 
 ## 🏅 Reconocimientos y Cursos
 
-- 🧑‍🏫 **Ponente** en encuentros nacionales OPLES (2023 - 2024)
+- 🧑‍🏫 **Ponente** en encuentros a nivel pais OPLES (2023 - 2024)
 - 🧠 Curso: Fundamentos del desarrollo de videojuegos (Unity)
 - 🧠 Curso: Programación y servidores Linux – Nivel intermedio
 - ☁️ Certificado: Herramientas de gestión en la nube – MéxicoX
+- 👨‍💻 Curso de GitHub Copilot
+- ⚙️ Curso de GitHub Actions
+- 💡 Curso de Ingeniería de Prompts
+- 🐳 Curso Profesional de Docker
+- 🎨 Curso de CSS
+- 🧩 Minicurso práctico de Flexbox y Grid
+- 🎓 Masterclass de Docker con Rossana Suárez
+- 🔍 Curso a fondo de GitHub
+- 🧠 Curso de Visual Studio Code y GitHub Copilot
 
 ---
 
