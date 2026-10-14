@@ -45,6 +45,11 @@ Soy un desarrollador Full Stack con enfoque en la creación de soluciones eficie
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=adobexd&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DevSack09&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DevSack09&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevSack09&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ## 📱 Proyectos Destacados
